@@ -1,2 +1,3 @@
 # Student Project
-This project manages student registration.
+this project manages student registration and search.
+
